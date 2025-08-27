@@ -9,14 +9,14 @@ module.exports = {
     // ==============================
     //          SESSION
     // ==============================
-    SESSION_ID: process.env.SESSION_ID || "",
+    SESSION_ID: process.env.SESSION_ID || "HansTz&ex5kjKrQ#Qh8mFTeVloxT_9bsVEzn3W1ROAXgP_MUqdhXWfSjwhs",
 
     // ==============================
     //           OWNER
     // ==============================
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "",
-    OWNER_NAME: process.env.OWNER_NAME || "HansTech",
-    DEV: process.env.DEV || "255760774888",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "50938223310",
+    OWNER_NAME: process.env.OWNER_NAME || "Zane",
+    DEV: process.env.DEV || "50938223310",
 
     // ==============================
     //         ANTI CALL
@@ -27,8 +27,8 @@ module.exports = {
     // ==============================
     //            MODE
     // ==============================
-    MODE: process.env.MODE || "public",
-    PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
+    MODE: process.env.MODE || "privé",
+    PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
     AUTO_BIO: process.env.AUTO_BIO || "false",
 
@@ -64,9 +64,9 @@ module.exports = {
     // ==============================
     //          STATUS
     // ==============================
-    AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
+    AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
-    AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
+    AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
     AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃*",
     
     // ==============================
@@ -74,11 +74,11 @@ module.exports = {
     // ==============================
     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/di5kdx.jpg",
     PREFIX: process.env.PREFIX || ".",
-    BOT_NAME: process.env.BOT_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
-    STICKER_NAME: process.env.STICKER_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
+    BOT_NAME: process.env.BOT_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗- Zane",
+    STICKER_NAME: process.env.STICKER_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗- Zane",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/di5kdx.jpg",
-    LIVE_MSG: process.env.LIVE_MSG || "> 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃⚡ IS ALIVE",
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ HansTech*",
+    LIVE_MSG: process.env.LIVE_MSG || "> 𝐕𝐎𝐑𝐓𝐄𝐗-Zane⚡ IS ALIVE",
+    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Zane*",
 
     // ==============================
     //         REACTIONS
